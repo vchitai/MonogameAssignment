@@ -1,0 +1,112 @@
+c:\users\tmtri\documents\visual studio 2015\Projects\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\DemoPixelShader.exe
+c:\users\tmtri\documents\visual studio 2015\Projects\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\DemoPixelShader.pdb
+c:\users\tmtri\documents\visual studio 2015\Projects\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\tmtri\documents\visual studio 2015\Projects\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\tmtri\documents\visual studio 2015\Projects\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\tmtri\documents\visual studio 2015\Projects\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\tmtri\documents\visual studio 2015\Projects\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\tmtri\documents\visual studio 2015\Projects\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\tmtri\documents\visual studio 2015\Projects\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\tmtri\documents\visual studio 2015\Projects\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\tmtri\documents\visual studio 2015\Projects\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+c:\users\tmtri\documents\visual studio 2015\Projects\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\tmtri\documents\visual studio 2015\Projects\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\tmtri\documents\visual studio 2015\Projects\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\tmtri\documents\visual studio 2015\Projects\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\tmtri\documents\visual studio 2015\Projects\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\tmtri\documents\visual studio 2015\Projects\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\tmtri\documents\visual studio 2015\Projects\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\tmtri\documents\visual studio 2015\Projects\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\tmtri\documents\visual studio 2015\Projects\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\tmtri\documents\visual studio 2015\Projects\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+c:\users\tmtri\documents\visual studio 2015\Projects\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\tmtri\documents\visual studio 2015\Projects\DemoPixelShader\DemoPixelShader\obj\x86\Debug\DemoPixelShader.exe
+c:\users\tmtri\documents\visual studio 2015\Projects\DemoPixelShader\DemoPixelShader\obj\x86\Debug\DemoPixelShader.pdb
+c:\users\tmtri\documents\visual studio 2015\Projects\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\Content\CNTN2013_resize.xnb
+c:\users\tmtri\documents\visual studio 2015\Projects\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\Content\MyEffect.xnb
+f:\Teaching\2016-2017\Game-CNTN13\Sessions\2016-10-05\DemoPixelShader\DemoPixelShader\obj\x86\Debug\DemoPixelShader.exe
+f:\Teaching\2016-2017\Game-CNTN13\Sessions\2016-10-05\DemoPixelShader\DemoPixelShader\obj\x86\Debug\DemoPixelShader.pdb
+f:\Teaching\2016-2017\Game-CNTN13\Sessions\2016-10-12\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\Content\CNTN2013_resize.xnb
+f:\Teaching\2016-2017\Game-CNTN13\Sessions\2016-10-12\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\Content\MyEffect.xnb
+f:\Teaching\2016-2017\Game-CNTN13\Sessions\2016-10-12\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\DemoPixelShader.exe
+f:\Teaching\2016-2017\Game-CNTN13\Sessions\2016-10-12\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\DemoPixelShader.pdb
+f:\Teaching\2016-2017\Game-CNTN13\Sessions\2016-10-12\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\MonoGame.Framework.dll
+f:\Teaching\2016-2017\Game-CNTN13\Sessions\2016-10-12\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+f:\Teaching\2016-2017\Game-CNTN13\Sessions\2016-10-12\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.dll
+f:\Teaching\2016-2017\Game-CNTN13\Sessions\2016-10-12\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+f:\Teaching\2016-2017\Game-CNTN13\Sessions\2016-10-12\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+f:\Teaching\2016-2017\Game-CNTN13\Sessions\2016-10-12\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+f:\Teaching\2016-2017\Game-CNTN13\Sessions\2016-10-12\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+f:\Teaching\2016-2017\Game-CNTN13\Sessions\2016-10-12\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.XInput.dll
+f:\Teaching\2016-2017\Game-CNTN13\Sessions\2016-10-12\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+f:\Teaching\2016-2017\Game-CNTN13\Sessions\2016-10-12\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+f:\Teaching\2016-2017\Game-CNTN13\Sessions\2016-10-12\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\MonoGame.Framework.xml
+f:\Teaching\2016-2017\Game-CNTN13\Sessions\2016-10-12\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+f:\Teaching\2016-2017\Game-CNTN13\Sessions\2016-10-12\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.xml
+f:\Teaching\2016-2017\Game-CNTN13\Sessions\2016-10-12\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+f:\Teaching\2016-2017\Game-CNTN13\Sessions\2016-10-12\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+f:\Teaching\2016-2017\Game-CNTN13\Sessions\2016-10-12\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+f:\Teaching\2016-2017\Game-CNTN13\Sessions\2016-10-12\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+f:\Teaching\2016-2017\Game-CNTN13\Sessions\2016-10-12\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.XInput.xml
+f:\Teaching\2016-2017\Game-CNTN13\Sessions\2016-10-12\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+f:\Teaching\2016-2017\Game-CNTN13\Sessions\2016-10-12\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+f:\Teaching\2016-2017\Game-CNTN13\Sessions\2016-10-12\DemoPixelShader\DemoPixelShader\obj\x86\Debug\DemoPixelShader.csprojResolveAssemblyReference.cache
+f:\Teaching\2016-2017\Game-CNTN13\Sessions\2016-10-12\DemoPixelShader\DemoPixelShader\obj\x86\Debug\DemoPixelShader.exe
+f:\Teaching\2016-2017\Game-CNTN13\Sessions\2016-10-12\DemoPixelShader\DemoPixelShader\obj\x86\Debug\DemoPixelShader.pdb
+f:\Teaching\2016-2017\Game-CNTN13\Sessions\2016-10-12\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\Content\Water.xnb
+e:\Teaching\Demo\DemoPixelShader\DemoPixelShader\obj\x86\Debug\DemoPixelShader.exe
+e:\Teaching\Demo\DemoPixelShader\DemoPixelShader\obj\x86\Debug\DemoPixelShader.pdb
+C:\teaching\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\Content\CNTN2013_resize.xnb
+C:\teaching\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\Content\MyEffect.xnb
+C:\teaching\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\Content\Water.xnb
+C:\teaching\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\DemoPixelShader.exe
+C:\teaching\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\DemoPixelShader.pdb
+C:\teaching\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\teaching\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\teaching\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.dll
+C:\teaching\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\teaching\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\teaching\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\teaching\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\teaching\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\teaching\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\teaching\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\teaching\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\teaching\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.xml
+C:\teaching\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\teaching\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\teaching\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\teaching\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\teaching\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\teaching\DemoPixelShader\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\teaching\DemoPixelShader\DemoPixelShader\obj\x86\Debug\DemoPixelShader.csprojResolveAssemblyReference.cache
+C:\teaching\DemoPixelShader\DemoPixelShader\obj\x86\Debug\DemoPixelShader.exe
+C:\teaching\DemoPixelShader\DemoPixelShader\obj\x86\Debug\DemoPixelShader.pdb
+D:\Codes\Visual Studio\DemoPixelShader (2)\DemoPixelShader\bin\Windows\x86\Debug\Content\CNTN2013_resize.xnb
+D:\Codes\Visual Studio\DemoPixelShader (2)\DemoPixelShader\bin\Windows\x86\Debug\Content\MyEffect.xnb
+D:\Codes\Visual Studio\DemoPixelShader (2)\DemoPixelShader\bin\Windows\x86\Debug\Content\Water.xnb
+D:\Codes\Visual Studio\DemoPixelShader (2)\DemoPixelShader\bin\Windows\x86\Debug\DemoPixelShader.exe
+D:\Codes\Visual Studio\DemoPixelShader (2)\DemoPixelShader\bin\Windows\x86\Debug\DemoPixelShader.pdb
+D:\Codes\Visual Studio\DemoPixelShader (2)\DemoPixelShader\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Codes\Visual Studio\DemoPixelShader (2)\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Codes\Visual Studio\DemoPixelShader (2)\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.dll
+D:\Codes\Visual Studio\DemoPixelShader (2)\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Codes\Visual Studio\DemoPixelShader (2)\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Codes\Visual Studio\DemoPixelShader (2)\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Codes\Visual Studio\DemoPixelShader (2)\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Codes\Visual Studio\DemoPixelShader (2)\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Codes\Visual Studio\DemoPixelShader (2)\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Codes\Visual Studio\DemoPixelShader (2)\DemoPixelShader\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Codes\Visual Studio\DemoPixelShader (2)\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Codes\Visual Studio\DemoPixelShader (2)\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.xml
+D:\Codes\Visual Studio\DemoPixelShader (2)\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Codes\Visual Studio\DemoPixelShader (2)\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Codes\Visual Studio\DemoPixelShader (2)\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Codes\Visual Studio\DemoPixelShader (2)\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Codes\Visual Studio\DemoPixelShader (2)\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Codes\Visual Studio\DemoPixelShader (2)\DemoPixelShader\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Codes\Visual Studio\DemoPixelShader (2)\DemoPixelShader\obj\x86\Debug\DemoPixelShader.csprojResolveAssemblyReference.cache
+D:\Codes\Visual Studio\DemoPixelShader (2)\DemoPixelShader\obj\x86\Debug\DemoPixelShader.csproj.CoreCompileInputs.cache
+D:\Codes\Visual Studio\DemoPixelShader (2)\DemoPixelShader\obj\x86\Debug\DemoPixelShader.csproj.CopyComplete
+D:\Codes\Visual Studio\DemoPixelShader (2)\DemoPixelShader\obj\x86\Debug\DemoPixelShader.exe
+D:\Codes\Visual Studio\DemoPixelShader (2)\DemoPixelShader\obj\x86\Debug\DemoPixelShader.pdb
