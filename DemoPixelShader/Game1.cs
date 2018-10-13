@@ -63,7 +63,7 @@ namespace DemoPixelShader
             // TODO: Unload any non ContentManager content here
         }
 
-        float t = 0;
+        float t = 1;
         /// <summary>
         /// Allows the game to run logic such as updating the world,
         /// checking for collisions, gathering input, and playing audio.
@@ -75,7 +75,9 @@ namespace DemoPixelShader
                 Exit();
 
             // TODO: Add your update logic here
-            t += 0.01f;
+            if (t > 0) {
+                t -= 0.01f;
+            }
 
             base.Update(gameTime);
         }
@@ -89,7 +91,7 @@ namespace DemoPixelShader
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
             // TODO: Add your drawing code here
-            effect.CurrentTechnique = effect.Techniques["Technique06"];
+            effect.CurrentTechnique = effect.Techniques["Technique12"];
             effect.Parameters["t"].SetValue(t);
             //effect = null;
             spriteBatch.Begin(SpriteSortMode.Deferred, null, null, null, null, effect, null);
